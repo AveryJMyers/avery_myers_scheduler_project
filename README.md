@@ -22,4 +22,4 @@ N/A
 
 ## Visuals
 
-![image](screencapture-averyjmyers-github-io-challenge-4-trivia-site-2023-05-31-21_57_21.png)
+![image](screencapture-averyjmyers-github-io-challenge-5-scheduler-2023-06-06-16_39_55.png)

@@ -80,6 +80,6 @@ function restoreSavedInputs() {
 
 
 function displayCurrentTime(){
-  displayTime.textContent = currentTime.format("dddd, MMMM D, YYYY")
+  displayTime.text(currentTime.format("dddd, MMMM D, YYYY"));
 
 }
