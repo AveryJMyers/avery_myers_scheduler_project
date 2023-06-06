@@ -8,10 +8,8 @@ This code was written to pactice with Jquery and for the grading team at UC Berk
 A. Open a web browser (e.g. Google Chrome, Mozilla Firefox, etc.).
 B. In the address bar, type the URL of the website.
 C. Press Enter.
-D. Upon loading the site you should be greeted by a menu
-    1. Press 'Yes!' to begin the game
-    2. Press 'Highscores' to view highscores
-    3. Press 'Rules' to view the rules of the game.
+D. Upon loading the site you should be greeted by a schedule
+    1. 
 
 ## Credits
 ChatGPT used for debugging.
