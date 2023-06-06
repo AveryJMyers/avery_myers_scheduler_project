@@ -9,7 +9,8 @@ A. Open a web browser (e.g. Google Chrome, Mozilla Firefox, etc.).
 B. In the address bar, type the URL of the website.
 C. Press Enter.
 D. Upon loading the site you should be greeted by a schedule
-    1. 
+    1. Write activities in the hour box
+    2. Times in the past will red, present 
 
 ## Credits
 ChatGPT used for debugging.
